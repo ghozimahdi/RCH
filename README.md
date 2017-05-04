@@ -35,4 +35,6 @@ WIKI / FAQ
 Bugs and Feedback
 -----------------
 
-Untuk bug, permintaan fitur, dan diskusi silahkan gunakan GitHub issues.
+Untuk bug, permintaan fitur, dan diskusi silahkan gunakan [GitHub issues][0].
+
+[0]: https://github.com/ghozimahdi/RCH/issues
