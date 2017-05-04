@@ -38,5 +38,13 @@ Bugs and Feedback
 
 Untuk bug, permintaan fitur, dan diskusi silahkan gunakan [GitHub issues][0].
 
+License
+-------
+
+    RCH  Copyright (C) 2017  Ghozi Mahdi
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+
 [0]: https://github.com/ghozimahdi/RCH/issues
 [1]: https://github.com/ghozimahdi/RCH/wiki
