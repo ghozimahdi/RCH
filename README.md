@@ -5,16 +5,17 @@ Resource Code Helper
 
 jika kamu ingin membuat codemu **Clean Code** , ini library yang cocok buatmu.
 
-### Fitur
---------
+## Fitur
+
 - injection view android component with **@annotation processing** 
 - request data json **raw**
 - change image to **circle image**
 - change font for textview
 - responsible recyclerview grid layout
 
-### Download
+Download
 --------
+
 Download JAR terbaru atau ambil via Maven:
 ```xml
 <dependency>
@@ -28,9 +29,10 @@ atau Gradle:
 compile 'com.blankdev.rch:3.7.0'
 ```
 
-### WIKI / FAQ
---------
+WIKI / FAQ
+----------
 
-### Bugs and Feedback
---------
+Bugs and Feedback
+-----------------
+
 Untuk bug, permintaan fitur, dan diskusi silahkan gunakan GitHub issues.
