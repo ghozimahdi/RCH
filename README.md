@@ -8,6 +8,7 @@ jika kamu ingin membuat codemu **Clean Code** , ini library yang cocok buatmu.
 ## Fitur
 
 - injection view android component with **@annotation processing** 
+- can use **Design Pattren MVP ADAPTER**
 - request data json **raw**
 - change image to **circle image**
 - change font for textview
