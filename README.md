@@ -1,7 +1,7 @@
 # RCH
 Resource Code Helper
 
-> **RCH** adalah library **Resource Code Helper** ya betul sumber code pembantu , jadi library ini di ciptakan untuk para developer android yang ingin cara instan mengcodekan suatu code yang di jika di tulis akan sangat panjang dan menghabiskan banyak waktu.
+> **RCH** adalah library **Resource Code Helper** ya betul sumber code pembantu , jadi library ini di ciptakan untuk para developer android yang ingin cara instan mengcodekan suatu code yang jika di tulis akan sangat panjang dan menghabiskan banyak waktu.
 
 jika kamu ingin membuat codemu **Clean Code** , ini library yang cocok buatmu.Untuk informasi lebih lanjut lihat di [wiki][1].
 
