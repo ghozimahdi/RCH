@@ -48,3 +48,9 @@ License
 
 [0]: https://github.com/ghozimahdi/RCH/issues
 [1]: https://github.com/ghozimahdi/RCH/wiki
+
+[2]: https://github.com/ghozimahdi/RCH/wiki/Injection-view-android-component-with-annotation-processing
+[3]: https://github.com/ghozimahdi/RCH/wiki/circle-image
+[4]: https://github.com/ghozimahdi/RCH/wiki/mvp-adapter
+[5]: https://github.com/ghozimahdi/RCH/wiki/json-raw
+[6]: https://github.com/ghozimahdi/RCH/wiki/responsible-recyclerview-grid-layout
