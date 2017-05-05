@@ -7,12 +7,12 @@ jika kamu ingin membuat codemu **Clean Code** , ini library yang cocok buatmu.Un
 
 ## Fitur
 
-- injection view android component with **@annotation processing** 
-- can use **Design Pattren MVP ADAPTER**
-- request data json **raw**
-- change image to **circle image**
-- change font for textview
-- responsible recyclerview grid layout
+- [injection view android component with **@annotation processing**][2] 
+- [can use **Design Pattren MVP ADAPTER**][4]
+- [request data json **raw**][5]
+- [change image to **circle image**][3]
+- [change font for textview][7]
+- [responsible recyclerview grid layout][6]
 
 Download
 --------
@@ -54,3 +54,5 @@ License
 [4]: https://github.com/ghozimahdi/RCH/wiki/mvp-adapter
 [5]: https://github.com/ghozimahdi/RCH/wiki/json-raw
 [6]: https://github.com/ghozimahdi/RCH/wiki/responsible-recyclerview-grid-layout
+
+[7]: https://github.com/ghozimahdi/RCH
