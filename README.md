@@ -1,11 +1,11 @@
 # RCH
 Resource Code Helper
 
-> **RCH** adalah library **Resource Code Helper** ya betul sumber code pembantu , jadi library ini di ciptakan untuk para developer android yang ingin cara instan mengcodekan suatu code yang jika di tulis akan sangat panjang dan menghabiskan banyak waktu.
+> **RCH** library is **Resource Code Helper** Yes really source code helper , So this library is created for the android developers who want an instant way to encode a code that if the write will be very long and spend a lot of time.
 
-jika kamu ingin membuat codemu **Clean Code** , ini library yang cocok buatmu.Untuk informasi lebih lanjut lihat di [wiki][1].
+If you want to make your code **Clean Code** ,This library suits you. For more information see on [wiki][1].
 
-## Fitur
+## Features
 
 - [injection view android component with **@annotation processing**][2] 
 - [can use **Design Pattren MVP ADAPTER**][4]
@@ -25,7 +25,7 @@ Download JAR terbaru atau ambil via Maven:
   <version>3.7.0</version>
 </dependency>
 ```
-atau Gradle:
+or Gradle:
 ```groovy
 compile 'com.blankdev.rch:3.7.0'
 ```
@@ -36,7 +36,7 @@ WIKI / FAQ
 Bugs and Feedback
 -----------------
 
-Untuk bug, permintaan fitur, dan diskusi silahkan gunakan [GitHub issues][0].
+For bug, Feature requests , and discussion please use [GitHub issues][0].
 
 License
 -------
