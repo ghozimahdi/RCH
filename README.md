@@ -17,7 +17,7 @@ If you want to make your code **Clean Code** ,This library suits you. For more i
 Download
 --------
 
-Download JAR terbaru atau ambil via Maven:
+Download the latest JAR or grab via Maven:
 ```xml
 <dependency>
   <groupId>com.blankdev.rch</groupId>
