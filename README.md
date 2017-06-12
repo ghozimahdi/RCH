@@ -3,7 +3,7 @@ Resource Code Helper
 
 > **RCH** library is **Resource Code Helper** Yes really source code helper , So this library is created for the android developers who want an instant way to encode a code that if the write will be very long and spend a lot of time.
 
-If you want to make your code **Clean Code** ,This library suits you. For more information see on [wiki][1].
+If you want to make your code `Clean Code` ,This library suits you. For more information see on [wiki][1].
 
 ## Features
 
